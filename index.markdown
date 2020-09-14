@@ -17,9 +17,9 @@ layout: default
     <div class="col-lg-4 col-md-6 text-center mt-4">
     <h2 class='text-center'>Shreya Sapkota</h2>
     <p style='color:grey'>
-     <small>Computer Science Student</small><br>
      AWS Certified Cloud Practitioner <br>
-    Backend Developer <i class="fas fa-code"></i>
+    Backend Developer <i class="fas fa-code"></i><br>
+<small>Computer Science Student</small>
     </p>
     <a class="btn btn-outline-secondary" target='_blank' href="assets/ShreyaSapkota_CV .pdf"><i class="fas fa-file-pdf"></i>  Curriculum Vitae </a>
     </div>
