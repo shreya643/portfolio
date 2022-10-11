@@ -19,9 +19,9 @@ layout: default
     <p style='color:grey'>
      AWS Certified Cloud Practitioner <br>
     Backend Developer <i class="fas fa-code"></i><br>
-<small>Computer Science Student</small>
+<small>Computer Science Graduate</small>
     </p>
-    <a class="btn btn-outline-secondary" target='_blank' href="assets/ShreyaSapkota_CV .pdf"><i class="fas fa-file-pdf"></i>  Curriculum Vitae </a>
+    <a class="btn btn-outline-secondary" target='_blank' href="assets/ShreyaSapkota_CV.pdf"><i class="fas fa-file-pdf"></i>  Curriculum Vitae </a>
     </div>
   </div>
 
